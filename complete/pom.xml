@@ -29,8 +29,8 @@
 		</dependency>
 
 		<dependency>
-			<groupId>mysql-connector-java</groupId>
-			<artifactId>mysql</artifactId>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
 			<scope>runtime</scope>
 		</dependency>
 		<dependency>
